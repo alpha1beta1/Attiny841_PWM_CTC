@@ -2,7 +2,7 @@
  * Attiny841_PWM_CTC.cpp
  *
  * Created: 1/21/2019 5:21:47 PM
- * Author : Aykan
+ * Author : Aykan ANKARA
  */ 
 
 #define F_CPU 8000000UL
